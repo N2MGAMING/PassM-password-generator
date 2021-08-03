@@ -27,17 +27,13 @@ time
   
     -open a terminal, go to the Pass M directory and type: "python3 passm.py"
 
-2.download the executable
+2.download the program
 
   debian and its derivations:
 
     -download the "passm_1.0.0_all.deb" and install it with the dpkg commmand
     
     -execute the program from the terminal(type "passm") or from the icon newly placed in your icons menu
-    
-  windows:
-    
-    -download the .exe file and execute it
 
 # releases
 
