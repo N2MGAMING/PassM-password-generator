@@ -80,7 +80,7 @@ def open_log():
 
 app = Tk()
 
-app.title("Password generator")
+app.title("Pass M")
 app.maxsize(800, 480)
 app.minsize(800, 480)
 app.iconphoto(True, PhotoImage(file='asset/icon.png'))
