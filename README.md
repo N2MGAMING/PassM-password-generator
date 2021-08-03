@@ -43,6 +43,9 @@ time
 
 Pass M v1.0.0:
 -PassM.py: the main file
+
 -log.txt: to save the generated passwords
+
 -assets/icon.png: the program icon
+
 -assets/shield.png: an image used in the gui
